@@ -23,3 +23,10 @@
 * Check 
   * [available](https://github.com/junit-team/junit5/wiki/Third-party-Extensions#junit-platform-test-engines)
   * [guide to create](http://junit.org/junit5/docs/current/user-guide/#launcher-api-engines-custom)
+
+## Notes
+* 'SuiteTests'
+  * TODO: How should it be the impact?
+
+## How to run tests?
+* `gradlew test`
